@@ -1,5 +1,4 @@
-# discount-calculator
-Simple Python function to apply a discount based on user input.
+
 # Discount Calculator 🧮
 
 This Python program calculates the final price of an item after applying a discount. If the discount is 20% or more, it is applied; otherwise, the original price is returned.
